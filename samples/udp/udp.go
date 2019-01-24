@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	log "github.com/Sirupsen/logrus"
-	"github.com/kidoman/go-steam"
+	steam "github.com/Zate/go-steam"
+	log "github.com/sirupsen/logrus"
 )
 
 func main() {
